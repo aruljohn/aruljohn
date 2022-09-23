@@ -45,3 +45,7 @@ Hi! I am a principal software engineer at NASA 🌎.
 <a href="http://twitter.com/aruljohn" target="_blank">
     <img src="https://img.shields.io/twitter/follow/aruljohn?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
+
+## Subscribe to my newsletter
+
+🗞️  https://www.getrevue.co/profile/aruljohn
