@@ -1,6 +1,6 @@
 # Arul says 👋
 
-Hi! I am a principal software engineer at NASA 🌎. 
+Hi! I am a principal software engineer at a space agency 🌎. 
 
 🌐  In my free time, I maintain my online utilities at https://aruljohn.com
 
