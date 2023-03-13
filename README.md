@@ -8,7 +8,7 @@ Hi! I am a principal software engineer at a space agency 🌎.
 
 ⚡  My free APIs / RESTful web services are at https://aruljohn.com/api/
 
-🐍  I also coach ACSL and teach Python to school children. 
+🐍  I also coach USACO and ACSL, and teach Python to school children. 
 
 🌱  I’m currently learning Rust and improving Go
 
