@@ -46,6 +46,6 @@ Hi! I am a principal software engineer at a space agency 🌎.
     <img src="https://img.shields.io/twitter/follow/aruljohn?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 
-## Subscribe to my newsletter
+## Subscribe to my blog
 
-🗞️  https://www.getrevue.co/profile/aruljohn
+🗞️  https://aruljohn.com/blog/
