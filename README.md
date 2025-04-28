@@ -2,21 +2,23 @@
 
 Hi! I am a principal software engineer at a space agency 🌎. 
 
-🌐  In my free time, I maintain my online utilities at https://aruljohn.com
+🌐  In my free time, I maintain my online utilities at my ~ 25-year old website https://aruljohn.com
 
 ✍  I maintain my blog at https://aruljohn.com/blog/
 
 ⚡  My free APIs / RESTful web services are at https://aruljohn.com/api/
 
-🐍  I also coach USACO and ACSL, and teach Python to school children. 
+🐍  I also coach ACSL and USACO, and teach Python to school children.
 
-🌱  I’m currently learning Rust and improving Go
+🌱  I develop mainly in Python and Rust. I also use Go sometimes.
 
-🕸  I'm interested in Web3 and Blockchain
+🧑‍💼  At work, I code in Python, Java, NodeJS [Express], Rust and bash, among other things.
+
+🕸  I'm interested in Gen AI, LLMs, Blockchain and Web3.
 
 👯  I’m looking to collaborate on anything interesting. Message me.
 
-📫  How to reach me: Twitter, Facebook (@aruljohn)
+📫  How to reach me: Twitter and Facebook (@aruljohn).
 
 ⚡  Fun fact: I am ambidextrous, kinda.
 
